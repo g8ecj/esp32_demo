@@ -1,5 +1,5 @@
-author: mongoose-os
-description: A Mongoose OS app skeleton
+author: robin
+description: A Demo of Mongoose OS as presented to CHBOT
 version: 1.0
 
 libs_version: ${mos.version}
