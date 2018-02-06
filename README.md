@@ -1,4 +1,4 @@
-# A blank Mongoose OS app
+# A demo of a Javascript demonstration Mongoose OS app
 
 ## Overview
 
